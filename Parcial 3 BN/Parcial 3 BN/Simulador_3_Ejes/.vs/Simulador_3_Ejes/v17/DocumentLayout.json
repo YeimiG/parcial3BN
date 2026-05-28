@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kike\\Documents\\Simulador_3_Ejes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3FC9DD-1822-EB07-7753-64FEA48AEED1}|Assembly-CSharp.csproj|c:\\users\\kike\\documents\\simulador_3_ejes\\assets\\scripts\\controladorserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3FC9DD-1822-EB07-7753-64FEA48AEED1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controladorserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3FC9DD-1822-EB07-7753-64FEA48AEED1}|Assembly-CSharp.csproj|C:\\Users\\Kike\\Documents\\Simulador_3_Ejes\\assets\\scripts\\escuchaserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3FC9DD-1822-EB07-7753-64FEA48AEED1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escuchaserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControladorSerial.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\Simulador_3_Ejes\\Assets\\scripts\\ControladorSerial.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ControladorSerial.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\Simulador_3_Ejes\\Assets\\scripts\\ControladorSerial.cs",
+              "RelativeToolTip": "Assets\\scripts\\ControladorSerial.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T00:37:50.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscuchaSerial.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\Simulador_3_Ejes\\Assets\\scripts\\EscuchaSerial.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\EscuchaSerial.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\Simulador_3_Ejes\\Assets\\scripts\\EscuchaSerial.cs",
+              "RelativeToolTip": "Assets\\scripts\\EscuchaSerial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:46:35.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
